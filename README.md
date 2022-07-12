@@ -9,8 +9,8 @@ This is an extremely crude network stack implementation. Included in this implem
 - TinyOS
 
 # Usage
-1. Clone this repo and mount it to TinyOS
-2. Inside the repo run `make micaz sim`
-3. run `python TestSim.py`
+1. Clone this repo and mount it to TinyOS.
+2. Inside the repo run `make micaz sim`.
+3. run `python TestSim.py`.
 
-To edit/add triggers look insdie `TestSim.py`
+To edit/add triggers look insdie `TestSim.py`.
